@@ -1,0 +1,6 @@
+4|Ganti Ban Luar R14|75000.00
+2|Tambal Ban Dalam|10000.00
+1|Tambal Tubeless|15000.00
+3|Ganti Ban Dalam R14|35000.00
+6|Isi Angin|2000.00
+5|Setel Rantai|20000.00

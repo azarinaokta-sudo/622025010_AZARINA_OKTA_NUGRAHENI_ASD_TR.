@@ -1,0 +1,12 @@
+V|Bengkel Pusat
+V|Jl. Diponegoro
+V|Jl. Sudirman
+V|Terminal
+V|Jl. Merdeka
+V|Perumahan Griya
+E|Bengkel Pusat|Jl. Diponegoro
+E|Jl. Diponegoro|Jl. Sudirman
+E|Jl. Sudirman|Terminal
+E|Jl. Sudirman|Jl. Merdeka
+E|Jl. Merdeka|Perumahan Griya
+E|Jl. Diponegoro|Jl. Merdeka
